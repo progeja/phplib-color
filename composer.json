@@ -1,39 +1,39 @@
 {
-    "name": "progeja/color",
-    "description": "Color manipulation library.",
-    "version": "1.0",
-    "keywords": [
-        "color",
-        "colors",
-        "rgb",
-        "hsl",
-        "hsv"
-    ],
-    "homepage": "https://github.com/progeja/color",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Progeja",
-            "email": "progeja@gmail.com"
-        }
-    ],
-    "autoload": {
-        "psr-4": {
-            "Color\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Color\\Test\\": [
-                "tests/"
-            ]
-        }
-    },
-    "require": {
-        "php": ">=7.1"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "^7.4"
+  "name": "progeja/color",
+  "description": "Color manipulation library.",
+  "version": "2.0",
+  "keywords": [
+    "color",
+    "colors",
+    "rgb",
+    "hsl",
+    "hsv"
+  ],
+  "homepage": "https://github.com/progeja/color",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Progeja",
+      "email": "progeja@gmail.com"
     }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Progeja\\Color\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Progeja\\Color\\Test\\": [
+        "tests/"
+      ]
+    }
+  },
+  "require": {
+    "php": "^8.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^8.3"
+  }
 }

@@ -6,7 +6,7 @@
  * Date: 3.12.2018 9:29
  */
 
-namespace Color;
+namespace Progeja\Color;
 
 /**
  * Class Color

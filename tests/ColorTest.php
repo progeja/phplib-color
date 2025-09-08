@@ -6,7 +6,7 @@
  * Date: 3.12.2018 10:37
  */
 
-namespace Color\Test;
+namespace Progeja\Color\Test;
 
 use Color\Color;
 use PHPUnit\Framework\TestCase;

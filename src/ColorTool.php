@@ -6,7 +6,7 @@
  * Date: 3.12.2018 14:17
  */
 
-namespace Color;
+namespace Progeja\Color;
 
 
 class ColorTool
